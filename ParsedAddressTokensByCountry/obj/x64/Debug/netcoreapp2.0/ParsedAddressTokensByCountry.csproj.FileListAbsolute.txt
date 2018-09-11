@@ -1,0 +1,11 @@
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\bin\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.deps.json
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\bin\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.runtimeconfig.json
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\bin\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.runtimeconfig.dev.json
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\bin\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.dll
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\bin\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.pdb
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\obj\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.csprojAssemblyReference.cache
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\obj\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.csproj.CoreCompileInputs.cache
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\obj\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.AssemblyInfoInputs.cache
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\obj\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.AssemblyInfo.cs
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\obj\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.dll
+C:\Users\alyssa\source\repos\ParsedAddressTokensByCountry\ParsedAddressTokensByCountry\obj\x64\Debug\netcoreapp2.0\ParsedAddressTokensByCountry.pdb
